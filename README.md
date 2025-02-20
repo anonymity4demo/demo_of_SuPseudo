@@ -1,2 +1,2 @@
 # demo_of_SuPseudo
-The demo of "SuPseudo: Pseudo-supervised Learning for Conversational Speech Enhancement"
+The demo of "SuPseudo: A Pseudo-supervised Learning Method for Neural Speech Enhancement in Far-field Speech Recognition"
